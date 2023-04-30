@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1590620488 source:c:\users\dell\documents\programacion de computadoras\examen_estructuras\main.cpp
+	<iostream>
+	<conio.h>
+	"MazoCartas.h"
+	"Utileria.h"
+
+1590618358 source:c:\users\dell\documents\programacion de computadoras\examen_estructuras\utileria.cpp
+	"Utileria.h"
+
+1590618358 c:\users\dell\documents\programacion de computadoras\examen_estructuras\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+
+1590618358 source:c:\users\dell\documents\programacion de computadoras\examen_estructuras\carta.cpp
+	"Carta.h"
+
+1590618358 c:\users\dell\documents\programacion de computadoras\examen_estructuras\carta.h
+	"Utileria.h"
+
+1590618358 source:c:\users\dell\documents\programacion de computadoras\examen_estructuras\mazocartas.cpp
+	"MazoCartas.h"
+
+1590618358 c:\users\dell\documents\programacion de computadoras\examen_estructuras\mazocartas.h
+	"Carta.h"
+

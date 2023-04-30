@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1586827507 source:c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\main.cpp
+	<iostream>
+	"GestionConjuntos.h"
+
+1586570318 source:c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\utileria.cpp
+	"Utileria.h"
+
+1586575012 c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\utileria.h
+	<iostream>
+	<cstdlib>
+	<limits>
+	"Utileria.tpp"
+
+1586573520 c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\utileria.tpp
+
+1586817106 c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\conjuntos.h
+	<stdio.h>
+	"Utileria.h"
+	"Conjuntos.tpp"
+
+1586827832 c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\conjuntos.tpp
+	"Conjuntos.h"
+
+1586654766 source:c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\gestion.cpp
+
+1586828630 c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\gestionconjuntos.h
+	"Conjuntos.h"
+	"GestionConjuntos.tpp"
+
+1586828630 c:\users\dell\documents\programacion de computadoras\conjuntos_los_arreglos_contratacan\gestionconjuntos.tpp
+
+1586827508 source:c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\main.cpp
+	<iostream>
+	"GestionConjuntos.h"
+
+1586828632 c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\gestionconjuntos.h
+	"Conjuntos.h"
+	"GestionConjuntos.tpp"
+
+1586817108 c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\conjuntos.h
+	<stdio.h>
+	"Utileria.h"
+	"Conjuntos.tpp"
+
+1586575014 c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\utileria.h
+	<iostream>
+	<cstdlib>
+	<limits>
+	"Utileria.tpp"
+
+1586573522 c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\utileria.tpp
+
+1586827834 c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\conjuntos.tpp
+	"Conjuntos.h"
+
+1586828632 c:\users\dell\documents\programacion de computadoras\pa comprobar\conjuntos_los_arreglos_contratacan\gestionconjuntos.tpp
+

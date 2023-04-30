@@ -1,0 +1,5 @@
+              MANUAL DE USUARIO:
+								 
+- Te mueves con las flechas arriba y abajo.
+								
+- Para interactuar con los botones, presiona ENTER.

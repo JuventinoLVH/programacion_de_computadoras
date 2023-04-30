@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590433459 source:c:\users\dell\documents\programacion de computadoras\utileria\utileria.cpp
+	"Utileria.h"
+
+1590433459 c:\users\dell\documents\programacion de computadoras\utileria\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+

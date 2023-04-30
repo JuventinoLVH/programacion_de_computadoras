@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1583013479 source:c:\users\alumno-l202\documents\programación de computadoras\luisilloelpillo(velasquez)\dealerdecartas\main.cpp
+	<iostream>
+	<cstdlib>
+	"Carta.h"
+
+1583015820 source:c:\users\alumno-l202\documents\programación de computadoras\luisilloelpillo(velasquez)\dealerdecartas\carta.cpp
+	"Carta.h"
+
+1583009966 c:\users\alumno-l202\documents\programación de computadoras\luisilloelpillo(velasquez)\dealerdecartas\carta.h
+	"Utileria.h"
+
+1583011721 source:c:\users\alumno-l202\documents\programación de computadoras\luisilloelpillo(velasquez)\dealerdecartas\utileria.cpp
+	"Utileria.h"
+
+1583011706 c:\users\alumno-l202\documents\programación de computadoras\luisilloelpillo(velasquez)\dealerdecartas\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+
+1582931339 source:c:\users\lcc\documents\programacion de computadoras\dealerdecartas\main.cpp
+	<iostream>
+	<cstdlib>
+	"Carta.h"
+
+1582930395 c:\users\lcc\documents\programacion de computadoras\dealerdecartas\carta.h
+	"Utileria.h"
+
+1582930395 c:\users\lcc\documents\programacion de computadoras\dealerdecartas\utileria.h
+	<windows.h>
+	<iostream>
+
+1582931568 source:c:\users\lcc\documents\programacion de computadoras\dealerdecartas\carta.cpp
+	"Carta.h"
+
+1582929128 source:c:\users\lcc\documents\programacion de computadoras\dealerdecartas\utileria.cpp
+	"Utileria.h"
+
+1583189164 source:c:\users\alumno\documents\programación de computadoras\luisilloelpillo\dealerdecartas\carta.cpp
+	"Carta.h"
+
+1583190151 c:\users\alumno\documents\programación de computadoras\luisilloelpillo\dealerdecartas\carta.h
+	"Utileria.h"
+
+1583011708 c:\users\alumno\documents\programación de computadoras\luisilloelpillo\dealerdecartas\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+
+1583190151 source:c:\users\alumno\documents\programación de computadoras\luisilloelpillo\dealerdecartas\utileria.cpp
+	"Utileria.h"
+
+1583191779 source:c:\users\alumno\documents\programación de computadoras\luisilloelpillo\dealerdecartas\main.cpp
+	<iostream>
+	<cstdlib>
+	"Carta.h"
+

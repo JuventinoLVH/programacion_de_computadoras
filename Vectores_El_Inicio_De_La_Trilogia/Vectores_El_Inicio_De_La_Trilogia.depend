@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1586027947 source:c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\main.cpp
+	<iostream>
+	<cstdlib>
+	"Opr_Vectores.h"
+	"Utileria.h"
+
+1586026244 c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\opr_vectores.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"Utileria.h"
+	"Opr_Vectores.tpp"
+
+1586025740 source:c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\opr_vectores.cpp
+	"Opr_Vectores.h"
+
+1586570375 c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\utileria.h
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1586027709 source:c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\utileria.cpp
+	"Utileria.h"
+
+1586026914 c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\utileria.tpp
+
+1586027786 c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\opr_vectores.tpp
+
+1586026276 source:c:\users\dell\documents\programacion de computadoras\vectores_el_inicio_de_la_trilogia\utileria.tpp.cpp
+	"Utileria.h"
+

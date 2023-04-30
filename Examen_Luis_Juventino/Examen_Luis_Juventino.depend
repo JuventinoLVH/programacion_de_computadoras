@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588458313 source:c:\users\dell\documents\programacion de computadoras\examen_luis_juventino\main.cpp
+	<iostream>
+	"Ahorcado.h"
+
+1588458474 source:c:\users\dell\documents\programacion de computadoras\examen_luis_juventino\utileria.cpp
+	"Utileria.h"
+
+1588458505 c:\users\dell\documents\programacion de computadoras\examen_luis_juventino\utileria.h
+	<windows.h>
+	<iostream>
+
+1588455279 source:c:\users\dell\documents\programacion de computadoras\examen_luis_juventino\ahorcado.cpp
+	"Ahorcado.h"
+
+1588455696 c:\users\dell\documents\programacion de computadoras\examen_luis_juventino\ahorcado.h
+	"Utileria.h"
+

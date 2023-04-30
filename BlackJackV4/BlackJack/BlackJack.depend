@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1590437158 source:c:\users\dell\documents\programacion de computadoras\si\blackjack\animacionesjuego.cpp
+	"AnimacionesJuego.h"
+
+1590438594 c:\users\dell\documents\programacion de computadoras\si\blackjack\animacionesjuego.h
+	"Utileria.h"
+
+1590438595 c:\users\dell\documents\programacion de computadoras\si\blackjack\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+
+1590437448 source:c:\users\dell\documents\programacion de computadoras\si\blackjack\main.cpp
+	<iomanip>
+	<cctype>
+	"MazoDeCartas.h"
+	"Utileria.h"
+	"AnimacionesJuego.h"
+	<conio.h>
+
+1590437386 source:c:\users\dell\documents\programacion de computadoras\si\blackjack\utileria.cpp
+	"Utileria.h"
+
+1590438594 c:\users\dell\documents\programacion de computadoras\si\blackjack\carta.h
+	"Utileria.h"
+
+1590360179 source:c:\users\dell\documents\programacion de computadoras\si\blackjack\carta.cpp
+	"Carta.h"
+
+1590380855 source:c:\users\dell\documents\programacion de computadoras\si\blackjack\mazodecartas.cpp
+	"MazoDeCartas.h"
+
+1590379423 c:\users\dell\documents\programacion de computadoras\si\blackjack\mazodecartas.h
+	"Carta.h"
+
+1590455422 source:c:\users\gabri\onedrive\escritorio\blackjack\main.cpp
+	<iomanip>
+	<cctype>
+	"MazoDeCartas.h"
+	"Utileria.h"
+	"AnimacionesJuego.h"
+	<conio.h>
+
+1590379424 c:\users\gabri\onedrive\escritorio\blackjack\mazodecartas.h
+	"Carta.h"
+
+1590438596 c:\users\gabri\onedrive\escritorio\blackjack\carta.h
+	"Utileria.h"
+
+1590438596 c:\users\gabri\onedrive\escritorio\blackjack\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+
+1590455075 c:\users\gabri\onedrive\escritorio\blackjack\animacionesjuego.h
+	"Utileria.h"
+
+1590456058 source:c:\users\gabri\onedrive\escritorio\blackjack\animacionesjuego.cpp
+	"AnimacionesJuego.h"
+
+1590360180 source:c:\users\gabri\onedrive\escritorio\blackjack\carta.cpp
+	"Carta.h"
+
+1590380856 source:c:\users\gabri\onedrive\escritorio\blackjack\mazodecartas.cpp
+	"MazoDeCartas.h"
+
+1590437388 source:c:\users\gabri\onedrive\escritorio\blackjack\utileria.cpp
+	"Utileria.h"
+
+1590725784 source:c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\animacionesjuego.cpp
+	"AnimacionesJuego.h"
+
+1590710017 c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\animacionesjuego.h
+	"Utileria.h"
+
+1590438596 c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+
+1590710017 source:c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\carta.cpp
+	"Carta.h"
+
+1590709725 c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\carta.h
+	"Utileria.h"
+
+1590729781 source:c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\main.cpp
+	<iomanip>
+	<cctype>
+	<conio.h>
+	"MazoDeCartas.h"
+	"Utileria.h"
+	"ManoBlackJack.h"
+	"AnimacionesJuego.h"
+
+1590686822 c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\mazodecartas.h
+	"Carta.h"
+
+1590712319 source:c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\mazodecartas.cpp
+	"MazoDeCartas.h"
+
+1590725712 source:c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\utileria.cpp
+	"Utileria.h"
+
+1590714683 source:c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\manoblackjack.cpp
+	"ManoBlackJack.h"
+
+1590714494 c:\users\dell\documents\programacion de computadoras\blackjackv4\blackjack\manoblackjack.h
+	"Carta.h"
+

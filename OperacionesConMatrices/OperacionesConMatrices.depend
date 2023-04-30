@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1590011400 source:c:\users\dell\documents\programacion de computadoras\operacionesconmatrices\main.cpp
+	<iostream>
+	"OperacionesConMatrices.h"
+
+1589838564 c:\users\dell\documents\programacion de computadoras\operacionesconmatrices\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+
+1589918728 source:c:\users\dell\documents\programacion de computadoras\operacionesconmatrices\utileria.cpp
+	"Utileria.h"
+
+1589833330 c:\users\dell\documents\programacion de computadoras\operacionesconmatrices\utileria.tpp
+
+1590011387 source:c:\users\dell\documents\programacion de computadoras\operacionesconmatrices\operacionesconmatrices.cpp
+	"OperacionesConMatrices.h"
+
+1590003149 c:\users\dell\documents\programacion de computadoras\operacionesconmatrices\operacionesconmatrices.h
+	"Utileria.h"
+	<fstream>
+	<iomanip>
+

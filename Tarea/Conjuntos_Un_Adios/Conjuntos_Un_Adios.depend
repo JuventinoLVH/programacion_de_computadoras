@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1590535688 source:c:\users\dell\documents\programacion de computadoras\conjuntos_un_adios\main.cpp
+	<iostream>
+	<windows.h>
+	"Conjunto.h"
+	"Utileria.h"
+
+1590532877 source:c:\users\dell\documents\programacion de computadoras\conjuntos_un_adios\conjunto.cpp
+	"Conjunto.h"
+
+1590536270 c:\users\dell\documents\programacion de computadoras\conjuntos_un_adios\conjunto.h
+	<iostream>
+
+1590530916 c:\users\dell\documents\programacion de computadoras\conjuntos_un_adios\utileria.h
+
+1590531081 source:c:\users\dell\documents\programacion de computadoras\conjuntos_un_adios\utileria.cpp
+	<windows.h>
+	<iostream>
+	<limits>
+
+1590532878 source:c:\users\dell\documents\programacion de computadoras\tarea\conjuntos_un_adios\conjunto.cpp
+	"Conjunto.h"
+
+1590536272 c:\users\dell\documents\programacion de computadoras\tarea\conjuntos_un_adios\conjunto.h
+	<iostream>
+
+1590531082 source:c:\users\dell\documents\programacion de computadoras\tarea\conjuntos_un_adios\utileria.cpp
+	<windows.h>
+	<iostream>
+	<limits>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589743559 source:c:\users\dell\documents\programacion de computadoras\convertidordearte\main.cpp
+	<bits/stdc++.h>
+
+1589241150 c:\users\dell\documents\programacion de computadoras\convertidordearte\identificateclaspulsadas.h
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<windows.h>
+	<conio.h>
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1587962871 source:c:\users\dell\documents\programacion de computadoras\tarea\main.cpp
+	<iostream>
+	<stdio.h>
+	"OrdenarConHistogramas.h"
+
+1587958509 source:c:\users\dell\documents\programacion de computadoras\dealerdecartas\utileria.cpp
+	"Utileria.h"
+
+1587919079 c:\users\dell\documents\programacion de computadoras\dealerdecartas\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+
+1587958509 c:\users\dell\documents\programacion de computadoras\tarea\histograma.h
+	"Utileria.h"
+
+1587958509 c:\users\dell\documents\programacion de computadoras\tarea\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+
+1587940784 source:c:\users\dell\documents\programacion de computadoras\tarea\histograma.cpp
+	"Histograma.h"
+
+1587961781 source:c:\users\dell\documents\programacion de computadoras\tarea\ordenarconhistogramas.cpp
+	"OrdenarConHistogramas.h"
+
+1587962084 c:\users\dell\documents\programacion de computadoras\tarea\ordenarconhistogramas.h
+	"Histograma.h"
+
+1587940786 source:c:\users\dell\documents\programacion de computadoras\pa comprobar\tarea\histograma.cpp
+	"Histograma.h"
+
+1587958510 c:\users\dell\documents\programacion de computadoras\pa comprobar\tarea\histograma.h
+	"Utileria.h"
+
+1587958510 c:\users\dell\documents\programacion de computadoras\pa comprobar\tarea\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+
+1587963816 source:c:\users\dell\documents\programacion de computadoras\pa comprobar\tarea\main.cpp
+	<iostream>
+	<stdio.h>
+	"OrdenarConHistogramas.h"
+
+1587962086 c:\users\dell\documents\programacion de computadoras\pa comprobar\tarea\ordenarconhistogramas.h
+	"Histograma.h"
+
+1587961782 source:c:\users\dell\documents\programacion de computadoras\pa comprobar\tarea\ordenarconhistogramas.cpp
+	"OrdenarConHistogramas.h"
+

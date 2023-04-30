@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1587345756 source:c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\main.cpp
+	<iostream>
+	"Gestion.h"
+
+1587345756 c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\polinomios.h
+	"Utileria.h"
+	<stdio.h>
+
+1587345756 c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\utileria.h
+	<iostream>
+	<cstdlib>
+	<limits>
+	<new>
+
+1586573520 c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\utileria.tpp
+
+1587345756 source:c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\polinomios.cpp
+	"Polinomios.h"
+
+1587345756 source:c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\utileria.cpp
+	"Utileria.h"
+
+1587238931 c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\polinomios.tpp
+	"Polinomios.h"
+
+1587345780 source:c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\gestion.cpp
+	"Gestion.h"
+
+1587345756 c:\users\dell\documents\programacion de computadoras\polinomios_el_ultimo_puntero\gestion.h
+	"Polinomios.h"
+

@@ -1,0 +1,39 @@
+bool MovDealer(int puntosJ, ManoBlackJack &dealer , MazoDeCartas &mazo ,int &pilaDeCartas)
+{
+    gotoxy(POS_X_MAZO-4,POS_Y_MAZO+14);
+    cout<<"Turno del dealrer";
+    gotoxy(POS_X_D-15,POS_Y_D+5);
+    cout<<"Dealer: "<<dealer.GetPuntos()<<" P";
+    dealer.ImprimirMano();
+
+    while(puntosJ>=dealer.GetPuntos())
+    {
+        gotoxy(POS_X_MAZO-4,POS_Y_MAZO+15);
+        cout<<'.';
+        Sleep(1000);
+        cout<<'.';
+        Sleep(1000);
+        cout<<'.';
+
+        dealer.AgregarCarta(mazo.SacarCarta());
+        gotoxy(POS_X_D-15,POS_Y_D+5);
+        cout<<"Dealer: "<<dealer.GetPuntos()<<" P";
+        dealer.ImprimirMano();
+
+        ActualizarMazo(mazo,pilaDeCartas);
+
+        if(dealer.GetPuntos()>21)
+        {
+            gotoxy(POS_X_MAZO-4,POS_Y_MAZO+15);
+            cout<<"                        ";
+            gotoxy(POS_X_MAZO-4,POS_Y_MAZO+14);
+            cout<<"                        ";
+            return false;
+        }
+    }
+    gotoxy(POS_X_MAZO-4,POS_Y_MAZO+15);
+    cout<<"                        ";
+    gotoxy(POS_X_MAZO-4,POS_Y_MAZO+14);
+    cout<<"                        ";
+    return true;
+}

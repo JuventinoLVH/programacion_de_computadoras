@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584647716 source:c:\users\m\documents\codeblocks\elordenimporta\main.cpp
+	<iostream>
+	"Utileria.h"
+
+1584649056 c:\users\m\documents\codeblocks\elordenimporta\utileria.h
+	"Utileria.tpp"
+
+1584649056 c:\users\m\documents\codeblocks\elordenimporta\utileria.tpp
+
